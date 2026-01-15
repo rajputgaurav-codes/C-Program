@@ -6,9 +6,9 @@ int main(){
     scanf("%d",&a);
     printf("enter the second number=");
     scanf("%d",&b);
-    printf("first relational operator=%d\n",a+=b); //using +=
-    printf("second relational operator=%d\n",a-=b); //using -=
-    printf("third relational operator=%d\n",a*=b); //using *=
-    printf("fourth relational operator=%d\n",a/=b); //using /=
+    printf("first Assignment operator=%d\n",a+=b); //using +=
+    printf("second Assignment operator=%d\n",a-=b); //using -=
+    printf("third Assignment operator=%d\n",a*=b); //using *=
+    printf("fourth Assignment operator=%d\n",a/=b); //using /=
     return 0;
 }
