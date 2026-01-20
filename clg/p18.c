@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
     int i,sum=0;
-    for(i=5;i>=1;i--){
+    for(i=5;i>=1;i--){   //reverse order.
         printf("%d\n",i*i);
         sum=sum+i*i;
     }
