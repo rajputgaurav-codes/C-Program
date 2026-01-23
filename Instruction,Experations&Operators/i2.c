@@ -6,7 +6,7 @@ int main(){
     printf("enter a value=");
     scanf("%d",&a);
     b=(float)a;
-    printf("integer value=%d",a);
+    printf("integer value=%d\n",a);
     printf("Floating-point value=%.2f",b);
     return 0;
 }
