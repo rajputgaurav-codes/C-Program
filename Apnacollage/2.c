@@ -3,6 +3,6 @@ int main(){
     char name;
     printf("Enter your name=");
     scanf("%c",&name);
-    printf("Welcome %c in my coding journey");
+    printf("Welcome in my coding journey");
     return 0;
 }
